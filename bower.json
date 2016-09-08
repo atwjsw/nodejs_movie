@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_movie",
+  "authors": [
+    "Daniel Wen <daniel.wen@ericsson.com>"
+  ],
+  "description": "nodejs+express+jade+mongoose+mongodb+bower",
+  "main": "",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
